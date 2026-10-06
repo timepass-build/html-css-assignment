@@ -18,11 +18,11 @@ This project is a basic HTML and CSS webpage for CodeStart Academy. It includes 
 
 ## Learning Resources
 
-| No. | Resource | Link | Topic Learned | What I Learned | How I Used It |
-|---|---|---|---|---|---|
-| 2 | MDN Web Docs | https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model | CSS Box Model | I learned that margin creates space outside an element, padding creates space inside an element, and borders surround the padding. | I used margin between cards, padding inside cards, and borders around cards. |
-| 3 | W3Schools | https://www.w3schools.com/css/css_navbar.asp | Navigation Bar | I learned how links can be styled with colors, padding, and hover effects. | I created navigation links and changed their background color when the mouse moves over them. |
-| 4 | MDN Web Docs | https://developer.mozilla.org/en-US/docs/Web/CSS/:hover | Hover Effects | I learned that the `:hover` pseudo-class changes an element's appearance when a user points at it. | I added hover effects to navigation links and course buttons. |
+### Bro Code — HTML & CSS Full Course
+
+- **Resource:** Bro Code YouTube Channel  
+- **Video:** [HTML & CSS Full Course for free](https://www.youtube.com/watch?v=HGTJBPNC-Gw)  
+- **Topics learned:** HTML structure, CSS selectors, navigation bars, cards, the CSS box model, images, buttons, and hover effects.
 
 ## Screenshots
 
