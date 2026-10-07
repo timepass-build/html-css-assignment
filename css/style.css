@@ -5,19 +5,20 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f4f7fb;
-    color: #333333;
+    background-color: #1d1519;
+    color: #f5ebe3;
 }
 
 /* Navigation bar */
 .navbar {
-    background-color: #16325c;
+    background-color: #3b1b27;
     padding: 15px 40px;
     overflow: hidden;
+    border-bottom: 2px solid #b86b72;
 }
 
 .brand-name {
-    color: white;
+    color: #f8e9d2;
     font-size: 26px;
     margin: 0;
     display: inline-block;
@@ -36,7 +37,7 @@ body {
 }
 
 .nav-links a {
-    color: white;
+    color: #f5ebe3;
     text-decoration: none;
     font-size: 16px;
     padding: 8px 10px;
@@ -44,20 +45,20 @@ body {
 }
 
 .nav-links a:hover {
-    background-color: #f5b700;
-    color: #16325c;
+    background-color: #d9a45d;
+    color: #3b1b27;
 }
 
 /* Welcome section */
 .welcome-section {
     text-align: center;
-    background-color: white;
+    background-color: #291b20;
     padding: 45px 20px;
-    border-bottom: 2px solid #d9e2f0;
+    border-bottom: 2px solid #5c3541;
 }
 
 .welcome-section h2 {
-    color: #16325c;
+    color: #f8e9d2;
     font-size: 30px;
 }
 
@@ -66,6 +67,7 @@ body {
     max-width: 700px;
     margin: 15px auto;
     line-height: 1.6;
+    color: #e0d1c6;
 }
 
 /* Course cards */
@@ -75,27 +77,27 @@ body {
 }
 
 .course-section h2 {
-    color: #16325c;
+    color: #f8e9d2;
     font-size: 28px;
     margin-bottom: 25px;
 }
 
 .course-card {
     width: 250px;
-    min-height: 450px;
-    background-color: white;
-    border: 1px solid #cbd5e1;
+    min-height: 410px;
+    background-color: #2b1d23;
+    border: 1px solid #5c3541;
     border-radius: 8px;
     margin: 12px;
     display: inline-block;
     vertical-align: top;
     text-align: left;
     overflow: hidden;
-    box-shadow: 0 3px 8px #cbd5e1;
+    box-shadow: 0 4px 10px #110b0d;
 }
 
 .course-card:hover {
-    border-color: #f5b700;
+    border-color: #d9a45d;
 }
 
 .course-card img {
@@ -109,23 +111,24 @@ body {
 }
 
 .card-content h3 {
-    color: #16325c;
+    color: #f8e9d2;
     margin-top: 0;
     font-size: 21px;
 }
 
 .card-content p {
     line-height: 1.5;
+    color: #e0d1c6;
 }
 
 .course-info {
     font-weight: bold;
-    color: #555555;
+    color: #d9a45d;
 }
 
 .card-button {
     display: inline-block;
-    background-color: #16325c;
+    background-color: #8b3a4a;
     color: white;
     text-decoration: none;
     padding: 10px 14px;
@@ -134,29 +137,34 @@ body {
 }
 
 .card-button:hover {
-    background-color: #f5b700;
-    color: #16325c;
+    background-color: #d9a45d;
+    color: #3b1b27;
 }
 
 /* Other sections */
 .about-section {
     text-align: center;
-    background-color: white;
+    background-color: #291b20;
     margin: 25px 40px;
     padding: 25px;
-    border: 1px solid #d9e2f0;
+    border: 1px solid #5c3541;
     border-radius: 8px;
 }
 
 .about-section h2 {
-    color: #16325c;
+    color: #f8e9d2;
+}
+
+.about-section p {
+    color: #e0d1c6;
 }
 
 /* Footer */
 footer {
-    background-color: #16325c;
-    color: white;
+    background-color: #3b1b27;
+    color: #f5ebe3;
     text-align: center;
     padding: 18px;
     margin-top: 30px;
+    border-top: 2px solid #b86b72;
 }
